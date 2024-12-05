@@ -1,9 +1,9 @@
 import { Container } from "@/components/shared";
 
-export default function Page() {
+export default function Post() {
   return (
     <div>
-      <Container>home</Container>
+      <Container>Post</Container>
     </div>
   );
 }

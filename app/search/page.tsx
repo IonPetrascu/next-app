@@ -1,9 +1,9 @@
 import { Container } from "@/components/shared";
 
-export default function Page() {
+export default function Search() {
   return (
     <div>
-      <Container>home</Container>
+      <Container>Search</Container>
     </div>
   );
 }
